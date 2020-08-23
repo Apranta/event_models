@@ -1,4 +1,4 @@
-package basemodel
+package event_models
 
 import (
 	"fmt"

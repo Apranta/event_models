@@ -1,8 +1,7 @@
 package models
 
 import (
-	"github.com/apranta/event_models/basemodel"
-
+	basemodel "github.com/apranta/event_models"
 	"github.com/google/uuid"
 )
 

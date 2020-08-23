@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/apranta/event_models/basemodel"
+	basemodel "github.com/apranta/event_models"
 )
 
 type User struct {

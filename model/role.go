@@ -1,8 +1,6 @@
 package models
 
-import (
-	"github.com/apranta/event_models/basemodel"
-)
+import basemodel "github.com/apranta/event_models"
 
 type (
 	// Role main type
